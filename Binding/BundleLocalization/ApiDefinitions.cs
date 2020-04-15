@@ -8,8 +8,6 @@ namespace BundleLocalization
     [BaseType(typeof(NSBundle))]
     interface NSBundle_Localization
     {
-        [Export("load")]
-        void Load();
     }
 
     // @interface BundleLocalization : NSObject
