@@ -1,6 +1,6 @@
 # BundleLocalization
 
-Xamarin.iOS binding library for XCode base internationalization to support on-the-fly language change.
+Xamarin.iOS binding library for internationalization to support on-the-fly language change.
 
 Binding of [BundleLocalization](https://github.com/cmaftuleac/BundleLocalization) library.
 
